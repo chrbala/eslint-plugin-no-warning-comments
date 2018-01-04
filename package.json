@@ -1,0 +1,11 @@
+{
+	"name": "eslint-plugin-no-warning-comments-clone",
+	"version": "0.0.1",
+	"description": "Clone of no-warning-comments",
+	"main": "index.js",
+	"author": "Chris Bala",
+	"license": "MIT",
+	"dependencies": {
+		"eslint": "4.14.0"
+	}
+}
